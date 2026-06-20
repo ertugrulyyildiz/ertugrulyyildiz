@@ -27,10 +27,8 @@ Recent finance graduate based in Istanbul, focused on **Sales & Trading, asset m
 - 🔬 Econometric research
   
 ### Tools I use
-**Markets:** Bloomberg · Excel / VBA
-
-**Quant:** Python · EViews / R · SQL
-
+**Platforms:** Bloomberg · Capital IQ · LSEG Workspace / Reuters
+**Analysis:** Excel & Excel VBA · Python
 **AI/Automation:** LLM workflows · prompt engineering · API orchestration
 
 
