@@ -28,7 +28,9 @@ Recent finance graduate based in Istanbul, focused on **Sales & Trading, asset m
   
 ### Tools I use
 **Platforms:** Bloomberg · Capital IQ · LSEG Workspace / Reuters
+
 **Analysis:** Excel & Excel VBA · Python
+
 **AI/Automation:** LLM workflows · prompt engineering · API orchestration
 
 
