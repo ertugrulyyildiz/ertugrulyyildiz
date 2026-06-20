@@ -35,4 +35,4 @@ Recent finance graduate based in Istanbul, focused on **Sales & Trading, asset m
 
 
 ### Reach me
-[LinkedIn](your-link) · [Email](mailto:your-email) · [Substack / Merivale Journal](your-link)
+[LinkedIn](https://www.linkedin.com/in/ertugrulyyildiz/) · [Email](mailto:your-email) 
