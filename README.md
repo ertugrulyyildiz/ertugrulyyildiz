@@ -35,4 +35,4 @@ Recent finance graduate based in Istanbul, focused on **Sales & Trading, asset m
 
 
 ### Reach me
-[LinkedIn](https://www.linkedin.com/in/ertugrulyyildiz/) · [Email](mailto:your-email) 
+[LinkedIn](https://www.linkedin.com/in/ertugrulyyildiz/) · [Email](mailto:ertugrulyyildiz@gmail.com) 
