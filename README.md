@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Ertuğrul 👋
-MSc in Investment Management (Bayes Business School), BA Economics&Business Administratin (Koc University)
 
 Markets & Quant-Literate Discretionary
 ### Who I am
@@ -27,12 +26,13 @@ Recent finance graduate based in Istanbul, focused on **Sales & Trading, asset m
 - 🔬 Econometric research
   
 ### Tools I use
-**Platforms:** Bloomberg · Capital IQ · LSEG Workspace / Reuters
+- **Platforms:** Bloomberg · Capital IQ · LSEG Workspace / Reuters
+- **Analysis:** Excel & Excel VBA · Python
+- **AI/Automation:** LLM workflows · prompt engineering · API orchestration
 
-**Analysis:** Excel & Excel VBA · Python
-
-**AI/Automation:** LLM workflows · prompt engineering · API orchestration
-
+### Education
+- **MSc Investment Management** — Bayes Business School, London
+- **BA Economics & Business Administration**(Double Major) — Koç University, Istanbul
 
 ### Reach me
 [LinkedIn](https://www.linkedin.com/in/ertugrulyyildiz/) 
